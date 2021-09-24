@@ -1,11 +1,4 @@
-# Angel
-<!DOCTYPE html>
-
- <title>
-Angel
-</title> 
-
-
+<title> Angel </title> 
 </head><body> FOLLOW"&gt;<link 
 href="./Angel_files/default.css" type="text/css" rel="stylesheet"><link href="./Angel_files/template.css" type="text/css" rel="stylesheet"><link href="./Angel_files/skin.css" type="text/css" rel="stylesheet"><link href="./Angel_files/bootstrap.min.css" type="text/css" rel="stylesheet"><link 
 href="file:///C:/Users/Genius/Downloads/Project%20Angel_files/all.min.css">
@@ -62,4 +55,4 @@ href="file:///C:/Users/Genius/Downloads/Project%20Angel_files/all.min.css">
                                     <p class="footer-information">Chief of Information</p>
                                     <p class="footer-information">Tushar Pal</p>
                                     <p class="footer-information">Ajmer,Rajasthan, 305001</p>
-                                    </div></div></div></div></div></div></div></div></body></html>
+                                    </div></div></div></div></div></div></div></div>
