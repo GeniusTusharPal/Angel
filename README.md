@@ -1,5 +1,5 @@
 <title> Angel </title> 
-</head><body> FOLLOW"&gt;<link 
+&gt;<link 
 href="./Angel_files/default.css" type="text/css" rel="stylesheet"><link href="./Angel_files/template.css" type="text/css" rel="stylesheet"><link href="./Angel_files/skin.css" type="text/css" rel="stylesheet"><link href="./Angel_files/bootstrap.min.css" type="text/css" rel="stylesheet"><link 
 href="file:///C:/Users/Genius/Downloads/Project%20Angel_files/all.min.css">
 
