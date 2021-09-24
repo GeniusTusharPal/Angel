@@ -1,14 +1,29 @@
-<title> Angel </title>
-&gt;<link 
+<!DOCTYPE html>
+
+ <title>
+Angel
+</title> 
+
+
+</head><body> FOLLOW"&gt;<link 
 href="./Angel_files/default.css" type="text/css" rel="stylesheet"><link href="./Angel_files/template.css" type="text/css" rel="stylesheet"><link href="./Angel_files/skin.css" type="text/css" rel="stylesheet"><link href="./Angel_files/bootstrap.min.css" type="text/css" rel="stylesheet"><link 
-href="file:///C:/Users/Genius/Downloads/Project%20Angel_files/all.min.css"
+href="file:///C:/Users/Genius/Downloads/Project%20Angel_files/all.min.css">
+
+
 <div id="app" class="app-header-fixed">
 
 <header class="header" role="banner">
-    <div class="menu-grad-bg">
+    
+
+<div class="menu-grad-bg">
     <nav class="navbar navbar-expand-xl navbar-dark text-light">
         <div class="logo-link">
             
+            
+           
+        </div>
+
+        
     <div class="homepage-indicator-white">
         <h1>Welcome To AS The Angel</h1>
 <h2> <style>color: "Red" </style>Welcome Dear <a href="https://drive.google.com/file/d/1pFl6erWCwBGBzIg96GTsAP1C17sWe_q0/view?usp=sharing"> Sunil </a> You Are First Visitor.</h2>
@@ -46,4 +61,4 @@ href="file:///C:/Users/Genius/Downloads/Project%20Angel_files/all.min.css"
                                     <p class="footer-information">Chief of Information</p>
                                     <p class="footer-information">Tushar Pal</p>
                                     <p class="footer-information">Ajmer,Rajasthan, 305001</p>
-                                    </div></div></div></div></div></div></div></div>
+                                    </div></div></div></div></div></div></div></div></body></html>
