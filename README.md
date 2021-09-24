@@ -14,11 +14,6 @@ href="file:///C:/Users/Genius/Downloads/Project%20Angel_files/all.min.css">
     <nav class="navbar navbar-expand-xl navbar-dark text-light">
         <div class="logo-link">
             
-            
-           
-        </div>
-
-        
     <div class="homepage-indicator-white">
         <h1>Welcome To AS The Angel</h1>
 <h2> <style>color: "Red" </style>Welcome Dear <a href="https://drive.google.com/file/d/1pFl6erWCwBGBzIg96GTsAP1C17sWe_q0/view?usp=sharing"> Sunil </a> You Are First Visitor.</h2>
