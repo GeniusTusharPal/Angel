@@ -1,16 +1,11 @@
-#angel
 <title> Angel </title>
 &gt;<link 
 href="./Angel_files/default.css" type="text/css" rel="stylesheet"><link href="./Angel_files/template.css" type="text/css" rel="stylesheet"><link href="./Angel_files/skin.css" type="text/css" rel="stylesheet"><link href="./Angel_files/bootstrap.min.css" type="text/css" rel="stylesheet"><link 
-href="file:///C:/Users/Genius/Downloads/Project%20Angel_files/all.min.css">
-
-
+href="file:///C:/Users/Genius/Downloads/Project%20Angel_files/all.min.css"
 <div id="app" class="app-header-fixed">
 
 <header class="header" role="banner">
-    
-
-<div class="menu-grad-bg">
+    <div class="menu-grad-bg">
     <nav class="navbar navbar-expand-xl navbar-dark text-light">
         <div class="logo-link">
             
